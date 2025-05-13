@@ -1,1 +1,7 @@
-My new file
+
+Mistaken commit
+
+changes in file
+
+2nd commite
+
